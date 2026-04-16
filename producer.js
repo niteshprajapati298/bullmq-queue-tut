@@ -9,7 +9,7 @@ async function init(params) {
 
 
 
-
+    console.log("Test wifi")
 
     console.log("Job Added to queue", res.id);
 }
